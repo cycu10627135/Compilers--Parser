@@ -12,3 +12,6 @@ not.
 
 ※測試檔案的換行皆為 \n
 
+| Terminal  | Regular Expression | 
+|-------|:-----:|
+| ID   | '['A-Za-z_']''['A-Za-z0-9_']''*' |
