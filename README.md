@@ -1,4 +1,5 @@
-   #ParserTest  
+#ParserTest  
+
 ##Description
 
 Please write a program to read a program source from stdin following the token definition 
