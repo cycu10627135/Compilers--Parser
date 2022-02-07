@@ -35,7 +35,7 @@ not.
 
 | **Sample Input** | **Sample Output** | 
 |-------|:-----:|
-|"test_string"<br />Test_ID<br />|STRLIT " test_string "<br />ID Test_ID<br />|
-|-------|:-----:|
-|-------|:-----:|
-|-------|:-----:|
+| "test_string" <br /> Test_ID <br /> | STRLIT " test_string " <br /> ID Test_ID <br /> |
+| illiga!id | invalid input |
+| Str. length() | ID Str <br /> DOT . <br /> ID length <br /> LBR ( <br /> RBR ) <br /> |
+| printf(“HelloWorld”) | ID printf  <br /> LBR (  <br /> STRLIT " HelloWorld "  <br /> RBR ) |
