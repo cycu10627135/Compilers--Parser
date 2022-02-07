@@ -33,5 +33,5 @@ not.
     9. primary_tail → LBR stmt RBR primary_tail  
     10. primary_tai → λ  |
 
-| <font size = 5>Sample Input :</font> <br /> "test_string"<br />  Test_ID<br /><br /> **Sample Output :**<br /> STRLIT " test_string "<br />  ID Test_ID<br />   | Sample Input | 
+| **Sample Input **<br /> "test_string"<br />  Test_ID<br /><br /> **Sample Output :**<br /> STRLIT " test_string "<br />  ID Test_ID<br />   | Sample Input | 
 |-------|:-----:|
