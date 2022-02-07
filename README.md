@@ -32,7 +32,9 @@ not.
     8. primary_tail → DOT ID primary_tail  
     9. primary_tail → LBR stmt RBR primary_tail  
     10. primary_tai → λ  |
-
+  
+參考答案:
+  
 | **Sample Input** | **Sample Output** | 
 |-------|:-----:|
 | "test_string" <br /> Test_ID <br /> | STRLIT " test_string " <br /> ID Test_ID <br /> |
