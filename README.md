@@ -23,7 +23,7 @@ not.
 
 | Productions  |
 |-------|
-|1. program → stmts  
+| 1. program → stmts  |
 2. stmts → stmt stmts  
 3. stmts → λ  
 4. stmt → primary  
