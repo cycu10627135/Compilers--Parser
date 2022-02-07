@@ -33,4 +33,5 @@ not.
     9. primary_tail → LBR stmt RBR primary_tail  
     10. primary_tai → λ  |
 
-| Sample Input  "test_string"  Test_ID   | Regular Expression | 
+| Sample Input  "test_string"  Test_ID   | Sample Input | 
+|-------|:-----:|
