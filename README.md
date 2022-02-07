@@ -35,3 +35,7 @@ not.
 
 | **Sample Input** | **Sample Output** | 
 |-------|:-----:|
+|"test_string"<br />Test_ID<br />|STRLIT " test_string "<br />ID Test_ID<br />|
+|-------|:-----:|
+|-------|:-----:|
+|-------|:-----:|
