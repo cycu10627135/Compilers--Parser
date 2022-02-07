@@ -1,6 +1,6 @@
-#ParserTest  
+# ParserTest  
 
-##Description
+## Description
 
 Please write a program to read a program source from stdin following the token definition 
 and grammar rule at right.  
