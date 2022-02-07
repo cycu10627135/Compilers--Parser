@@ -23,3 +23,14 @@ not.
 
 | Productions  |
 |-------|
+|1 program → stmts  
+2 stmts → stmt stmts  
+3 stmts → λ  
+4 stmt → primary  
+5 stmt → STRLIT  
+6 stmt → λ  
+7 primary → ID primary_tail  
+8 primary_tail → DOT ID primary_tail  
+9 primary_tail → LBR stmt RBR primary_tail  
+10 primary_tai → λ  
+|
