@@ -19,8 +19,7 @@ not.
 | LBR | \\( |
 | RBR | \\) |
 | DOT | \\. |
-
-
+  
     Productions  
     1. program → stmts  
     2. stmts → stmt stmts  
